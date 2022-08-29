@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9E6yNq/tDWzjM6neOXoeUDejvOJa0+bucLVKZTOeeDOWQdHmKqWas9Ilqtl51NwPSSBu/s5XyqqXitkgRU1gVg==",
+  "dgSpecHash": "rjE6b/5tKF75xNNwPGvYRFo8zS8cyXMRXLlL4oQF5vX1gyBKulxwT9cj4QKoMhZzdy657a8njCw8xUkIpL0Vdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ellievreM ecilA\\source\\repos\\UnitTestMoqFinal\\UnitTestMoqFinal\\UnitTestMoqFinal.csproj",
+  "projectFilePath": "C:\\Users\\ellievreM ecilA\\source\\repos\\UnitTest\\UnitTestMoqFinal\\UnitTestMoqFinal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ellievreM ecilA\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ellievreM ecilA\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.8\\microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
@@ -22,6 +22,7 @@
     "C:\\Users\\ellievreM ecilA\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\ellievreM ecilA\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\ellievreM ecilA\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ellievreM ecilA\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\ellievreM ecilA\\.nuget\\packages\\npgsql\\6.0.6\\npgsql.6.0.6.nupkg.sha512",
     "C:\\Users\\ellievreM ecilA\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\6.0.6\\npgsql.entityframeworkcore.postgresql.6.0.6.nupkg.sha512",
     "C:\\Users\\ellievreM ecilA\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",

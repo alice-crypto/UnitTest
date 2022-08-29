@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ellievreM ecilA\\source\\repos\\UnitTestMoqFinal\\UnitTestMoqFinal\\UnitTestMoqFinal.csproj": {}
+    "C:\\Users\\ellievreM ecilA\\source\\repos\\UnitTest\\UnitTestMoqFinal\\UnitTestMoqFinal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ellievreM ecilA\\source\\repos\\UnitTestMoqFinal\\UnitTestMoqFinal\\UnitTestMoqFinal.csproj": {
+    "C:\\Users\\ellievreM ecilA\\source\\repos\\UnitTest\\UnitTestMoqFinal\\UnitTestMoqFinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ellievreM ecilA\\source\\repos\\UnitTestMoqFinal\\UnitTestMoqFinal\\UnitTestMoqFinal.csproj",
+        "projectUniqueName": "C:\\Users\\ellievreM ecilA\\source\\repos\\UnitTest\\UnitTestMoqFinal\\UnitTestMoqFinal.csproj",
         "projectName": "UnitTestMoqFinal",
-        "projectPath": "C:\\Users\\ellievreM ecilA\\source\\repos\\UnitTestMoqFinal\\UnitTestMoqFinal\\UnitTestMoqFinal.csproj",
+        "projectPath": "C:\\Users\\ellievreM ecilA\\source\\repos\\UnitTest\\UnitTestMoqFinal\\UnitTestMoqFinal.csproj",
         "packagesPath": "C:\\Users\\ellievreM ecilA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ellievreM ecilA\\source\\repos\\UnitTestMoqFinal\\UnitTestMoqFinal\\obj\\",
+        "outputPath": "C:\\Users\\ellievreM ecilA\\source\\repos\\UnitTest\\UnitTestMoqFinal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,6 +59,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.8, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
